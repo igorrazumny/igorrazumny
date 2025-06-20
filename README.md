@@ -1,41 +1,56 @@
----
+# 🧪 openai_data_quality_audit
 
-## ✅ 2. `igorrazumny/README.md` (GitHub Profile)
+A simple, end-to-end GenAI-powered data quality auditor built with OpenAI's GPT-4o.
 
-```markdown
-# 👋 Hi, I’m Igor Razumny – Freelance ML Consultant
+This script evaluates row-level quality of structured healthcare manufacturing data and provides:
+- A quality score
+- Issue detection
+- Suggested improvements
+- One-line summary for each record
 
-I help healthcare and life science companies design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
+## ✅ Use Case
+Designed for healthcare/life sciences professionals and teams looking to:
+- Improve recipe/documentation data reliability
+- Detect quality issues in structured manufacturing logs
+- Showcase how GenAI can audit operational data at scale
 
-With 16+ years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on delivery. I'm certified in Python and actively working toward cloud ML and security certifications across GCP, AWS, and Azure.
+## 🔍 Example Prompt Sent to GPT-4o
+```
+Evaluate the data quality of the following healthcare manufacturing record:
 
----
+{"step": "Mixing", "temperature": 85, "duration": "10m", ...}
 
-### 🔧 Tools & Certifications
-Python · Google GenAI (Gemini) · OpenAI · TensorFlow  
-GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git  
-(in progress: GCP ML Engineer · GCP Security · AI-102 · AWS ML Specialty)
+1. Rate the data quality from 1 (poor) to 5 (excellent).
+2. List any detected issues (e.g., missing values, format mismatches).
+3. Suggest improvements if needed.
+4. Provide a one-sentence summary for this record.
+```
 
----
+## 📦 How to Run
+```bash
+# Install dependencies
+pip install openai pandas
 
-### 📂 Featured Projects
+# Set your API key (use .env or secure environment setup)
+export OPENAI_API_KEY=your-key-here
 
-- [google-gemini-python-healthcare-demo](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
-  *Use of Google Gemini 1.5 Flash from Python to generate healthcare ML content.*
+# Ensure sample data exists
+mkdir -p data
+cp sample.csv data/mock_batch_data.csv  # replace with real data
 
-- [openai-data-quality-audit-demo](#coming-soon)  
-  *(Coming soon) LLM-powered structured data quality audit using OpenAI GPT-4o.*
+# Run the script
+python openai_data_quality_audit.ipynb  # or open in Jupyter
+```
 
----
+## 📁 Output
+A CSV file `audit_results.csv` with an additional `LLM_Review` column containing GPT responses.
 
-### 🧭 Focus
+## 🛡️ Notes
+- Data is processed securely via OpenAI API
+- The project demonstrates capabilities of GPT-4o; further guardrails and filtering may be added for production
 
-**Secure, compliant GenAI for healthcare — from strategy to production**  
-Operates as **AI Cloud Consulting**, a brand of **Razum GmbH**, based in Switzerland.  
-Hands-on delivery. No-nonsense results. Globally available.
+## 📘 License
+MIT License — feel free to adapt for internal projects
 
----
-
-### 📬 Let’s connect
-
-[LinkedIn](https://linkedin.com/in/irazum) · [Email](mailto:irazum@gmail.com) · [aicloudconsulting.com](http://aicloudconsulting.com)
+## 👤 Author
+[Igor Razumny](https://github.com/igorrazumny) · AI Cloud Consulting (Razum GmbH)
