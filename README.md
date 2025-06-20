@@ -15,7 +15,7 @@ GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
 
 ### 📂 Featured Projects
 
-- [openai_data_quality_audit](https://github.com/igorrazumny/openai_data_quality_audit)  
+- [openai-healthcare-data-quality-audit](https://github.com/igorrazumny/openai-healthcare-data-quality-audit)  
   *GenAI-powered structured data quality audit using OpenAI GPT-4o — focused on healthcare manufacturing records.*
 
 - [google-gemini-python-healthcare-demo](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
