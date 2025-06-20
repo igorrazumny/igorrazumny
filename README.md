@@ -1,16 +1,41 @@
-## 👋 Hi, I’m Igor Razumny – Freelance ML Consultant
+---
 
-I specialize in delivering practical AI/ML solutions for healthcare and life sciences.
+## ✅ 2. `igorrazumny/README.md` (GitHub Profile)
 
-With 16+ years of program management experience (10+ in healthcare) and certifications across GCP, AWS, TensorFlow, and security,  
-I help companies move from **AI strategy to production** — using LLMs, structured data automation, and GenAI APIs.
+```markdown
+# 👋 Hi, I’m Igor Razumny – Freelance ML Consultant
 
-### 📂 Featured Projects
-- [gemini-healthcare-ml-demo](https://github.com/lekago/gemini-healthcare-ml-demo) – Jupyter notebook using Gemini 1.5 Flash for healthcare ML content generation  
-- *(More coming soon)*
+I help healthcare and life science companies design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
+
+With 16+ years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on delivery. I'm certified in Python and actively working toward cloud ML and security certifications across GCP, AWS, and Azure.
+
+---
 
 ### 🔧 Tools & Certifications
-Python · Google GenAI · TensorFlow · Google Cloud ML Engineer (in progress) · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
+Python · Google GenAI (Gemini) · OpenAI · TensorFlow  
+GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git  
+(in progress: GCP ML Engineer · GCP Security · AI-102 · AWS ML Specialty)
+
+---
+
+### 📂 Featured Projects
+
+- [google-gemini-python-healthcare-demo](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
+  *Use of Google Gemini 1.5 Flash from Python to generate healthcare ML content.*
+
+- [openai-data-quality-audit-demo](#coming-soon)  
+  *(Coming soon) LLM-powered structured data quality audit using OpenAI GPT-4o.*
+
+---
+
+### 🧭 Focus
+
+**Secure, compliant GenAI for healthcare — from strategy to production**  
+Operates as **AI Cloud Consulting**, a brand of **Razum GmbH**, based in Switzerland.  
+Hands-on delivery. No-nonsense results. Globally available.
+
+---
 
 ### 📬 Let’s connect
-[LinkedIn](https://linkedin.com/in/irazum) · [Email](mailto:irazum@gmail.com)
+
+[LinkedIn](https://linkedin.com/in/irazum) · [Email](mailto:irazum@gmail.com) · [aicloudconsulting.com](http://aicloudconsulting.com)
