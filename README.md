@@ -19,7 +19,7 @@ GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
   *GenAI-powered structured data quality audit using OpenAI GPT-4o — focused on healthcare manufacturing records.*
 
 - [google-gemini-python-healthcare-demo](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
-  *A lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.*
+  *Portfolio demonstration: A lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.*
 
 ---
 
