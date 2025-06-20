@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Igor Razumny – Freelance ML Consultant
 
-I help healthcare and life science companies design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
+I help healthcare and life sciences organizations design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
 
-With 16+ years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on delivery. I'm certified in Python and Java, and actively working toward cloud ML and security certifications across GCP, AWS, and Azure.
+With 16+ years of program leadership experience (including 10+ in healthcare), I specialize in bridging strategic AI planning with hands-on implementation. I’m certified in Python and Java, and currently pursuing cloud ML and security certifications across GCP, AWS, and Azure.
 
-I’ve been building AI systems since 2005, starting with my bachelor thesis where I implemented a C++-based virtual soccer team for the RoboCup simulation league. The project focused on multi-agent coordination, real-time decision-making, and strategic behavior modeling. It laid the foundation for my long-term interest in AI and shaped how I approach intelligent systems today—especially in data-centric machine learning and applied healthcare use cases.
+My journey in AI began in 2005 with a bachelor thesis focused on building a C++-based virtual soccer team for the RoboCup simulation league. The system combined multi-agent coordination, real-time decision-making, and strategic behavior modeling—laying the foundation for my long-term focus on intelligent, data-driven systems in applied domains.
 ---
 
 ### 🔧 Tools & Certifications
