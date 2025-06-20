@@ -1,4 +1,10 @@
 # 👋 Hi, I’m Igor Razumny – Lean-Agile Leader and Freelance ML Consultant
+# 👋 Hi, I’m Igor Razumny – Lean-Agile Leader and Freelance ML Consultant
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 👤 About Me
 
