@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Igor Razumny – Freelance ML Consultant
+# 👋 Hi, I’m Igor Razumny – Lean-Agile Leader and Freelance ML Consultant
 
 ## 👤 About Me
 
