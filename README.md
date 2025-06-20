@@ -2,7 +2,7 @@
 
 I help healthcare and life science companies design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
 
-With 16+ years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on delivery. I'm certified in Python and actively working toward cloud ML and security certifications across GCP, AWS, and Azure.
+With 16+ years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on delivery. I'm certified in Python and Java, and actively working toward cloud ML and security certifications across GCP, AWS, and Azure.
 
 ---
 
@@ -15,11 +15,11 @@ GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
 
 ### 📂 Featured Projects
 
-- [google-gemini-python-healthcare-demo](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
-  *A lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.*
-
 - [openai_data_quality_audit](https://github.com/igorrazumny/openai_data_quality_audit)  
   *GenAI-powered structured data quality audit using OpenAI GPT-4o — focused on healthcare manufacturing records.*
+
+- [google-gemini-python-healthcare-demo](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
+  *A lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.*
 
 ---
 
