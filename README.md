@@ -2,23 +2,47 @@
 
 ## 👤 About Me
 
+**Lean-Agile Leader | Freelance ML Consultant | AI Systems for Healthcare**
+
 I help healthcare and life sciences organizations design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
 
-With 16+ years of program leadership experience (including 10+ in healthcare), I specialize in bridging strategic AI planning with hands-on implementation. I'm certified in Python and Java, and currently pursuing cloud ML and security certifications across GCP, AWS, and Azure.
+With over 16 years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on implementation. I’ve led cross-functional teams of 100+ and managed multi-million dollar initiatives, consistently delivering value in regulated (GxP) environments.
 
-My journey in AI began in 2005 with a bachelor thesis focused on building a C++-based virtual soccer team for the RoboCup simulation league. The system combined multi-agent coordination, real-time decision-making, and strategic behavior modeling—laying the foundation for my long-term focus on intelligent, data-driven systems in applied domains.
+My core strength lies in integrating AI/ML into enterprise settings—aligning emerging technologies with business objectives and compliance requirements. I’m certified in Python and Java, and currently working toward cloud ML and security certifications across GCP, AWS, and Azure.
+
+My journey in AI began in 2005 with a bachelor thesis focused on building a C++-based virtual soccer team for the RoboCup simulation league. This early work on multi-agent systems and real-time decision-making laid the foundation for my data-centric approach to applied machine learning today.
 
 ---
 
-## 🔧 Tools & Certifications
+## 🎓 Certifications
 
-**Core Tools**  
+**Project Management**  
+PMI Project Management Professional (PMP) · Lean Six Sigma Black Belt  
+Google Project Manager · Microsoft Project Manager · PRINCE2 Project Manager
+
+**Agile & SAFe**  
+SAFe® Release Train Engineer · SAFe® Program Consultant · Scrum Alliance Scrum Master
+
+**Technical**  
+Certified Python and Java Programmer  
+*In progress*: GCP ML Engineer · GCP Security · AI-102 (Azure AI) · AWS ML Specialty
+
+---
+
+## 🛠 Technical Background
+
+- Certified Python and Java Developer  
+- 3 years full-time experience with Java EE cloud applications  
+- Proficient in SQL and JavaScript  
+- Hands-on with TensorFlow, Pandas, Scikit-learn, OpenAI, Gemini  
+- Limited experience with C/C++ (from earlier AI/agent-based systems)
+
+---
+
+## 🔧 Core Tools
+
 Python · Google GenAI (Gemini) · OpenAI · TensorFlow  
 GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
-
-**Certifications**  
-✅ Python (PCAP) · ✅ Java  
-🧪 In progress: GCP ML Engineer · GCP Security · AI-102 (Azure AI) · AWS ML Specialty
 
 ---
 
