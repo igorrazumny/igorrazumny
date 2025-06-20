@@ -69,11 +69,11 @@ GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
 ## 📂 Featured Projects
 
 ### Portfolio demonstration: [`openai-healthcare-data-quality-audit`](https://github.com/igorrazumny/openai-healthcare-data-quality-audit)
-**Portfolio Demonstration:** Healthcare Data Quality Audit with OpenAI GPT-4o  
+Healthcare Data Quality Audit with OpenAI GPT-4o  
 Use OpenAI’s GPT-4o from Python to validate and summarize structured healthcare data. This notebook simulates how LLMs can support data quality audits in regulated environments.
 
 ### Portfolio demonstration: [`google-gemini-python-healthcare-demo`](https://github.com/yourusername/google-gemini-python-healthcare-demo)
-**Portfolio Demonstration:** Lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.
+Lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.
 
 ---
 
