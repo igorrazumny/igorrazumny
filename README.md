@@ -88,9 +88,3 @@ Hands-on delivery. No-nonsense results. Globally available.
 ## 📬 Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/igorrazumny) · [Email](mailto:your.email@example.com) · [aicloudconsulting.com](https://aicloudconsulting.com)
-
----
-
-## 📊 GitHub Stats
-
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
