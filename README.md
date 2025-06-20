@@ -68,7 +68,7 @@ GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
 
 ## 📂 Featured Projects
 
-### [https://github.com/igorrazumny/openai-healthcare-data-quality-audit](https://github.com/igorrazumny/openai-healthcare-data-quality-audit)
+### [`openai-healthcare-data-quality-audit`](https://github.com/igorrazumny/openai-healthcare-data-quality-audit)
 **Portfolio Demonstration:** Healthcare Data Quality Audit with OpenAI GPT-4o  
 Use OpenAI’s GPT-4o from Python to validate and summarize structured healthcare data. This notebook simulates how LLMs can support data quality audits in regulated environments.
 
