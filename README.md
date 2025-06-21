@@ -5,11 +5,9 @@
 
 ## 👤 About Me
 
-I specialize in designing and delivering ML and GenAI solutions for regulated industries like healthcare and finance. With 16+ years in program management and hands-on AI development, I help organizations bridge strategy and execution — securely.
+I specialize in designing and delivering ML and GenAI solutions for regulated industries like healthcare and finance. With over 16 years of program management experience and hands-on AI development, I help organizations bridge strategy and execution — securely.
 
-My core strength lies in integrating AI/ML into enterprise settings—aligning emerging technologies with business objectives and compliance requirements. I’m certified in Python and Java, and currently working toward cloud ML and security certifications across GCP, AWS, and Azure.
-
-My journey in AI began in 2005 with a bachelor thesis focused on building a C++-based virtual soccer team for the RoboCup simulation league. This early work on multi-agent systems and real-time decision-making laid the foundation for my data-centric approach to applied machine learning today.
+My journey in AI began in 2005 with a bachelor thesis on a C++-based virtual soccer team for the RoboCup simulation league. Today, I focus on integrating AI/ML into enterprise environments — aligning emerging technologies with business goals and compliance frameworks. I’m certified in Python and Java, and currently pursuing cloud ML and security certifications across GCP, AWS, and Azure.
 
 ---
 
