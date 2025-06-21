@@ -1,11 +1,9 @@
-# 👋 Hi, I’m Igor Razumny – Lean-Agile Leader and Freelance ML Consultant
+# 👋 Hi, I’m Igor Razumny – Security-First Cloud AI Program Manager & Architect for Regulated Industries
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 👤 About Me
-
-**Lean-Agile Leader | Freelance ML Consultant | AI Systems for Healthcare**
 
 I help healthcare and life sciences organizations design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
 
