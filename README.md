@@ -5,9 +5,7 @@
 
 ## 👤 About Me
 
-I help healthcare and life sciences organizations design and deploy GenAI-powered systems that improve data quality, streamline workflows, and support intelligent decision-making.
-
-With over 16 years of program leadership experience (10+ in healthcare), I specialize in bridging strategic AI planning with hands-on implementation. I’ve led cross-functional teams of 100+ and managed multi-million dollar initiatives, consistently delivering value in regulated (GxP) environments.
+I specialize in designing and delivering ML and GenAI solutions for regulated industries like healthcare and finance. With 16+ years in program management and hands-on AI development, I help organizations bridge strategy and execution — securely.
 
 My core strength lies in integrating AI/ML into enterprise settings—aligning emerging technologies with business objectives and compliance requirements. I’m certified in Python and Java, and currently working toward cloud ML and security certifications across GCP, AWS, and Azure.
 
