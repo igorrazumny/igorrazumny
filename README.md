@@ -87,4 +87,4 @@ Hands-on delivery. No-nonsense results. Globally available.
 
 ## 📬 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/igorrazumny) · [Email](mailto:your.email@example.com) · [aicloudconsulting.com](https://aicloudconsulting.com)
+[LinkedIn](https://www.linkedin.com/in/irazumn) · [Email](mailto:irazum@gmail.com) · [aicloudconsulting.com](https://aicloudconsulting.com)
