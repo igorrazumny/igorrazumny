@@ -5,11 +5,11 @@
 
 ## 👤 About Me
 
-Secure, compliant GenAI for healthcare — from strategy to production.
+I design and deliver secure, compliant GenAI and machine learning solutions for the healthcare industry — from strategy to production.
 
-I specialize in designing and delivering ML and GenAI solutions for the healthcare industry. With over 16 years of program management experience and hands-on AI development, I help organizations bridge strategy and execution — securely.
+With a strong focus on data protection, GxP compliance, and robust enterprise integration, I bring over 10 years of experience in GxP-regulated healthcare and 16 years in program management. I help organizations bridge the gap between innovation and security-critical execution.
 
-My AI journey began in 2005 with a bachelor thesis on a C++-based virtual soccer team for the RoboCup simulation league. Today, I focus on integrating AI/ML into enterprise environments, aligning emerging technologies with business goals, compliance frameworks, and real-world impact. I’m certified in Python and Java, and currently pursuing cloud ML and security certifications across GCP, AWS, and Azure.
+My AI journey began in 2003 with a thesis on multi-agent systems, and today I focus on GenAI-driven decision support, data quality validation, and process optimization. I’m certified in Python and Java, and currently pursuing cloud ML and security certifications across GCP, AWS, and Azure.
 
 ---
 
