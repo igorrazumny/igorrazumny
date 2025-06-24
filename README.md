@@ -18,6 +18,7 @@ I design and deliver secure, compliant systems for the healthcare industry — f
 ![Scrum Master](https://img.shields.io/badge/Scrum%20Alliance-Scrum%20Master-orange?style=for-the-badge)
 
 🧠 Technical
+
 ![Oracle AI & ML Foundations](https://img.shields.io/badge/Oracle-AI%20%26%20ML%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python Certified](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Certified](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
