@@ -30,15 +30,6 @@ I design and deliver secure, compliant systems for the healthcare industry — f
 ![Python Certified](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Certified](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
-## 🧪 In Progress
-
-![GCP ML Engineer (in progress)](https://img.shields.io/badge/GCP-ML%20Engineer%20in%20Progress-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GCP Security (in progress)](https://img.shields.io/badge/GCP-Security%20in%20Progress-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AI-102 (in progress)](https://img.shields.io/badge/Azure-AI--102%20in%20Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS ML Specialty (in progress)](https://img.shields.io/badge/AWS-ML%20Specialty%20in%20Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ---
 
