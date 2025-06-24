@@ -21,7 +21,7 @@ Technical Certifications
 
 Featured Projects
 
-Portfolio demonstration: [`google-gemini-python-healthcare-demo`](https://github.com/yourusername/google-gemini-python-healthcare-demo)
+Portfolio demonstration: [`google-gemini-python-healthcare-demo`](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)
 Lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.
 
 Let’s Connect [LinkedIn](https://www.linkedin.com/in/irazum) · [Email](mailto:irazum@gmail.com)
