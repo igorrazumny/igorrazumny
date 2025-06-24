@@ -1,6 +1,6 @@
-👋 Hi, I’m Igor Razumny – Program Manager for Healthcare
+Hi, I’m Igor Razumny – Program Manager for Healthcare
 
-👤 About Me
+About Me
 
 I design and deliver secure, compliant systems for the healthcare industry — from strategy to production.
 
@@ -21,7 +21,7 @@ Technical Certifications
 ![Python Certified](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Certified](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-📂 Featured Projects
+Featured Projects
 
 Portfolio demonstration: [`google-gemini-python-healthcare-demo`](https://github.com/yourusername/google-gemini-python-healthcare-demo)
 Lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.
