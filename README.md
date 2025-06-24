@@ -13,7 +13,6 @@ I design and deliver secure, compliant systems for the healthcare industry — f
 ![Google Project Manager](https://img.shields.io/badge/Google-Project%20Manager-lightgrey?style=for-the-badge)
 ![Microsoft Project Manager](https://img.shields.io/badge/Microsoft-Project%20Manager-lightgrey?style=for-the-badge)
 ![PRINCE2](https://img.shields.io/badge/PRINCE2-Project%20Manager-purple?style=for-the-badge)
-
 ![SAFe RTE](https://img.shields.io/badge/SAFe-RTE-brightgreen?style=for-the-badge)
 ![SAFe SPC](https://img.shields.io/badge/SAFe-SPC-green?style=for-the-badge)
 ![Scrum Master](https://img.shields.io/badge/Scrum%20Alliance-Scrum%20Master-orange?style=for-the-badge)
