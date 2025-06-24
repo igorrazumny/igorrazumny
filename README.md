@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 
-I design and deliver secure, compliant GenAI and machine learning systems for the healthcare industry — from strategy to production.
+I design and deliver secure, compliant systems for the healthcare industry — from strategy to production.
 
 With a strong focus on data protection, GxP compliance, and robust enterprise integration, I bring over 10 years of experience in GxP-regulated healthcare and 16 years in program management. I operate across the stack — from enterprise architecture and solution design to hands-on AI development — helping organizations bridge the gap between innovation and security-critical execution.
 
@@ -31,7 +31,7 @@ My AI journey began in 2003 with a thesis on multi-agent systems in C++, and I r
 ---
 
 ### 🧠 Technical
-
+![Oracle AI & ML Foundations](https://img.shields.io/badge/Oracle-AI%20%26%20ML%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python Certified](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Certified](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
