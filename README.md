@@ -7,11 +7,6 @@
 
 I design and deliver secure, compliant systems for the healthcare industry — from strategy to production.
 
-With a strong focus on data protection, GxP compliance, and robust enterprise integration, I bring over 10 years of experience in GxP-regulated healthcare and 16 years in program management. I operate across the stack — from enterprise architecture and solution design to hands-on AI development — helping organizations bridge the gap between innovation and security-critical execution.
-
-My AI journey began in 2003 with a thesis on multi-agent systems in C++, and I remain deeply technical today — building GenAI-powered tools for data quality validation, financial reporting, and process optimization using Python and cloud-native frameworks such as Google Gemini, OpenAI GPT, and AWS AI services.
-
-
 ---
 
 ## 📛 Certifications
@@ -44,22 +39,6 @@ My AI journey began in 2003 with a thesis on multi-agent systems in C++, and I r
 ![AI-102 (in progress)](https://img.shields.io/badge/Azure-AI--102%20in%20Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS ML Specialty (in progress)](https://img.shields.io/badge/AWS-ML%20Specialty%20in%20Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-## 🛠 Technical Background
-
-- Certified Python and Java Developer  
-- 3 years full-time experience with Java EE cloud applications  
-- Proficient in SQL and JavaScript  
-- Hands-on with TensorFlow, Pandas, Scikit-learn, OpenAI, Gemini  
-- Limited experience with C/C++ (from earlier AI/agent-based systems)
-
----
-
-## 🔧 Core Tools
-
-Python · Google GenAI (Gemini) · OpenAI · TensorFlow  
-GCP · AWS · Azure · Pandas · Scikit-learn · Jupyter · Git
 
 ---
 
@@ -70,14 +49,6 @@ Lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthc
 
 ---
 
-## 🧭 Focus
-
-**Secure, compliant GenAI for healthcare** — from strategy to production  
-Operates as **AI Cloud Consulting**, a brand of **Razum GmbH**, based in Switzerland.  
-Hands-on delivery. No-nonsense results. Globally available.
-
----
-
 ## 📬 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/irazum) · [Email](mailto:irazum@gmail.com) · [aicloudconsulting.com](https://aicloudconsulting.com)
+[LinkedIn](https://www.linkedin.com/in/irazum) · [Email](mailto:irazum@gmail.com)
