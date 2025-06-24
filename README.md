@@ -19,11 +19,9 @@ Technical Certifications
 ![Python Certified Programmer](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Certified Programmer](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Banner](https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/2025-06-24%20OpenAI%20Recipe%20Validator.png?raw=true)
+<img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/2025-06-24%20OpenAI%20Recipe%20Validator.png?raw=true" alt="Banner" width="700"/>
 
-Portfolio demonstration: [`google-gemini-python-healthcare-demo`](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)
+Portfolio demonstration: [`google-gemini-python-healthcare-demo`](https://github.com/igorrazumny/google-gemini-python-healthcare-demo)  
 Lightweight demo calling Google Gemini 1.5 Flash from Python to generate healthcare ML content.
 
-
-
-[LinkedIn](https://www.linkedin.com/in/irazum) 
+[LinkedIn](https://www.linkedin.com/in/irazum)
