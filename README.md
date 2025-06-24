@@ -1,7 +1,5 @@
 Hi, I’m Igor Razumny – Program Manager for Healthcare
 
-About Me
-
 I design and deliver secure, compliant systems for the healthcare industry — from strategy to production.
 
 Project Management & Agile Certifications
