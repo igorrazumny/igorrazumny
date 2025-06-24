@@ -20,6 +20,6 @@ Technical Certifications
 ![Java Certified Programmer](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Portfolio demonstration: </br>
-<img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/2025-06-24%20OpenAI%20Recipe%20Validator.png?raw=true" alt="Banner" width="200"/>
+[<img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/2025-06-24%20OpenAI%20Recipe%20Validator.png?raw=true" alt="Banner" width="200"/>](https://github.com/igorrazumny/openai-recipe-quality-validator)
 
 [LinkedIn](https://www.linkedin.com/in/irazum)
