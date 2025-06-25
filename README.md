@@ -1,4 +1,5 @@
 Hi, I’m Igor Razumny 
+
 I design and deliver secure, compliant systems for the healthcare and finance — from strategy to production.
 
 Project Management & Agile Certifications
