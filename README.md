@@ -20,7 +20,7 @@ I design and deliver secure, compliant systems for the healthcare and finance â€
 ![Java Certified Programmer](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Portfolio demonstration
-<br>
+
 <div align="left">
 
 <div style="display: inline-block; width: 260px; vertical-align: top; margin-right: 40px;">
