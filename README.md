@@ -24,4 +24,4 @@ Portfolio demonstration:
 [<img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/Logo%206.png?raw=true" alt="Validator Logo" width="200"/>](https://github.com/igorrazumny/openai-recipe-quality-validator)
 
 GenAI Recipe Audit Benchmark  
-[<img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAudit.png?raw=true" alt="Benchmark Logo" width="200"/>](https://github.com/igorrazumny/genai-recipe-audit-benchmark)
+[<img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo.png?raw=true" alt="Benchmark Logo" width="200"/>](https://github.com/igorrazumny/genai-recipe-audit-benchmark)
