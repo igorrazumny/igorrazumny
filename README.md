@@ -25,14 +25,14 @@ I design and deliver secure, compliant systems for the healthcare and finance â€
 
 <div style="display: inline-block; width: 260px; vertical-align: top; margin-right: 40px;">
   <a href="https://github.com/igorrazumny/openai-recipe-quality-validator">
-    <strong>OpenAI Healthcare Recipe Quality Validator</strong>
+    <strong>OpenAI Healthcare Recipe Quality Validator</strong><br>
     <img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/Logo%206.png?raw=true" alt="Validator Logo" height="120"/><br/>
   </a>
 </div>
 
 <div style="display: inline-block; vertical-align: top;">
   <a href="https://github.com/igorrazumny/genai-recipe-audit-benchmark">
-    <strong>GenAI Recipe Audit Benchmark</strong>
+    <strong>GenAI Recipe Audit Benchmark</strong><br>
     <img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo.png?raw=true" alt="Benchmark Logo" height="120"/><br/>
   </a>
 </div>
