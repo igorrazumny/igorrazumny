@@ -20,8 +20,8 @@ Technical Certifications
 ![Java Certified Programmer](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Portfolio demonstration:  
-OpenAI Healthcare Recipe Quality Validator 
+OpenAI Healthcare Recipe Quality Validator<br>
 [<img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/Logo%206.png?raw=true" alt="Validator Logo" width="200"/>](https://github.com/igorrazumny/openai-recipe-quality-validator)
 
-GenAI Recipe Audit Benchmark  
+GenAI Recipe Audit Benchmark<br>  
 [<img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo.png?raw=true" alt="Benchmark Logo" width="200"/>](https://github.com/igorrazumny/genai-recipe-audit-benchmark)
