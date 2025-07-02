@@ -21,15 +21,15 @@ Technical Certifications
 
 ### Portfolio demonstration
 
-<table>
+<table style="border-collapse: separate; border-spacing: 30px 10px;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" style="border: 1px solid #333; border-radius: 10px; padding: 10px;">
       <a href="https://github.com/igorrazumny/openai-recipe-quality-validator">
         <img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/Logo%206.png?raw=true" alt="Validator Logo" width="150"/><br/>
-        <strong>OpenAI Healthcare Recipe Quality Validator</strong>
+        <strong>OpenAI Healthcare<br>Recipe Quality Validator</strong>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" style="border: 1px solid #333; border-radius: 10px; padding: 10px;">
       <a href="https://github.com/igorrazumny/genai-recipe-audit-benchmark">
         <img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo.png?raw=true" alt="Benchmark Logo" width="150"/><br/>
         <strong>GenAI Recipe Audit Benchmark</strong>
