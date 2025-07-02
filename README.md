@@ -21,10 +21,6 @@ I design and deliver secure, compliant GenAI systems for the healthcare and fina
 
 ## Portfolio demonstration
 
-## Portfolio demonstration
-
-## Portfolio demonstration
-
 <div align="left">
 
 <div style="display: inline-block; width: 260px; vertical-align: top; margin-right: 40px;">
