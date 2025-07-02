@@ -21,12 +21,14 @@ I design and deliver secure, compliant GenAI systems for the healthcare and fina
 
 ## Portfolio demonstration
 
+## Portfolio demonstration
+
 <div align="left">
 
 <div style="display: inline-block; width: 260px; vertical-align: top; margin-right: 40px;">
   <a href="https://github.com/igorrazumny/openai-recipe-quality-validator">
     <strong>OpenAI Healthcare Recipe Quality Validator</strong><br>
-    <img src="public_assets/ValidatorLogo_300x300.png" height="120"/>
+    <img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/ValidatorLogo_300x300.png?raw=true" height="120"/>
   </a>
   <p style="max-width: 260px;">
     Streamlit-based app that uses GPT-4o to audit healthcare manufacturing recipes for data quality and compliance issues. Users can upload JSON or CSV files and receive a PDF audit report.
@@ -36,7 +38,7 @@ I design and deliver secure, compliant GenAI systems for the healthcare and fina
 <div style="display: inline-block; vertical-align: top;">
   <a href="https://github.com/igorrazumny/genai-recipe-audit-benchmark">
     <strong>GenAI Recipe Audit Benchmark</strong><br>
-    <img src="public_assets/GenAIRecipeAuditBenchmarkLogo_300x300.png" height="120"/>
+    <img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo_300x300.png?raw=true" height="120"/>
   </a>
   <p style="max-width: 260px;">
     A structured benchmark to evaluate how well Generative AI models detect GxP-relevant deviations in manufacturing recipes. Includes dataset generation, ALCOA+ labeling, and model comparison.
