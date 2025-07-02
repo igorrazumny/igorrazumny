@@ -32,7 +32,7 @@ Technical Certifications
     <td align="center" style="border: 1px solid #333; border-radius: 10px; padding: 10px;">
       <a href="https://github.com/igorrazumny/genai-recipe-audit-benchmark">
         <img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo.png?raw=true" alt="Benchmark Logo" width="150"/><br/>
-        <strong>GenAI Recipe Audit Benchmark</strong>
+        <strong>GenAI Recipe<br>Audit Benchmark</strong>
       </a>
     </td>
   </tr>
