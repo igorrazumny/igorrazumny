@@ -1,6 +1,6 @@
 Hi, Iâ€™m Igor Razumny 
 
-I design and deliver secure, compliant systems for the healthcare and finance â€” from strategy to production.
+I design and deliver secure, compliant GenAI systems for the healthcare and finance â€” from strategy to production.
 
 ## Project Management & Agile Certifications
 
@@ -28,6 +28,9 @@ I design and deliver secure, compliant systems for the healthcare and finance â€
     <strong>OpenAI Healthcare Recipe Quality Validator</strong><br>
     <img src="https://github.com/igorrazumny/openai-recipe-quality-validator/blob/main/public_assets/Logo%206.png?raw=true" alt="Validator Logo" height="120"/><br/>
   </a>
+  <p style="max-width: 260px;">
+    Streamlit-based app that uses GPT-4o to audit healthcare manufacturing recipes for data quality and compliance issues. Users can upload JSON or CSV files and receive a PDF audit report.
+  </p>
 </div>
 
 <div style="display: inline-block; vertical-align: top;">
@@ -35,6 +38,15 @@ I design and deliver secure, compliant systems for the healthcare and finance â€
     <strong>GenAI Recipe Audit Benchmark</strong><br>
     <img src="https://github.com/igorrazumny/genai-recipe-audit-benchmark/blob/main/public_assets/GenAIRecipeAuditBenchmarkLogo.png?raw=true" alt="Benchmark Logo" height="120"/><br/>
   </a>
+  <p style="max-width: 260px;">
+    A structured benchmark to evaluate how well Generative AI models detect GxP-relevant deviations in manufacturing recipes. Includes dataset generation, ALCOA+ labeling, and model comparison.
+  </p>
 </div>
 
 </div>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Razumny-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irazum)
