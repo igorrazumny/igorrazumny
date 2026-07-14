@@ -1,6 +1,32 @@
-Hi, I’m Igor Razumny 
+Hi, I'm Igor Razumny
 
-I design and deliver secure, compliant GenAI systems for the healthcare and finance — from strategy to production.
+I design and deliver secure, sovereign GenAI systems for regulated industries — confidential, operator-blind AI inference from strategy to production.
+
+## Featured projects
+
+<div align="left">
+
+<div style="display: inline-block; width: 260px; vertical-align: top; margin-right: 40px;">
+  <a href="https://github.com/igorrazumny/sovereign-inference">
+    <strong>Sovereign Inference</strong><br>
+    <img src="https://coldvault.ai/logo.png" height="120"/>
+  </a>
+  <p style="max-width: 260px;">
+    Reference implementation of operator-blind AI inference on AMD SEV-SNP confidential VMs: TLS terminated inside the enclave, third-party-verifiable hardware attestation, multi-model debate over open-weight models, and conversation history with in-enclave semantic search — kept encrypted so the operator never sees plaintext.
+  </p>
+</div>
+
+<div style="display: inline-block; width: 260px; vertical-align: top;">
+  <a href="https://github.com/igorrazumny/glasshood">
+    <strong>GlassHood</strong><br>
+    <img src="https://github.com/igorrazumny/glasshood/blob/main/frontend/public/glasshood-logo.png?raw=true" height="120"/>
+  </a>
+  <p style="max-width: 260px;">
+    Cross-cloud infrastructure monitoring on Azure Container Apps, reading a Google Cloud estate in real time with zero stored credentials via Workload Identity Federation — a security-first, key-less multi-cloud architecture.
+  </p>
+</div>
+
+</div>
 
 ## Project Management & Agile Certifications
 
