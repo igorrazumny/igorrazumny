@@ -7,7 +7,7 @@ I design and deliver secure, sovereign GenAI systems for regulated industries â€
 <table>
 <tr>
 <td width="260" align="center">
-<a href="https://github.com/igorrazumny/sovereign-inference"><img src="https://coldvault.ai/logo.png" width="230"/></a>
+<a href="https://github.com/igorrazumny/sovereign-inference"><img src="https://github.com/igorrazumny/igorrazumny/blob/main/assets/coldvault-icon.png?raw=true" width="120"/></a>
 </td>
 <td>
 <a href="https://github.com/igorrazumny/sovereign-inference"><strong>Sovereign Inference</strong></a><br>
@@ -16,7 +16,7 @@ Reference implementation of operator-blind AI inference on AMD SEV-SNP confident
 </tr>
 <tr>
 <td width="260" align="center">
-<a href="https://github.com/igorrazumny/glasshood"><img src="https://github.com/igorrazumny/glasshood/blob/main/frontend/public/glasshood-logo.png?raw=true" width="230"/></a>
+<a href="https://github.com/igorrazumny/glasshood"><img src="https://github.com/igorrazumny/igorrazumny/blob/main/assets/glasshood-icon.png?raw=true" width="120"/></a>
 </td>
 <td>
 <a href="https://github.com/igorrazumny/glasshood"><strong>GlassHood</strong></a><br>
